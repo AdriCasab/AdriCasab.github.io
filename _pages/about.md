@@ -8,7 +8,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Maxwell Centre </p>
+    <p>Maxwell Centre, Cambridge </p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -17,5 +17,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Welcome to my website. It is currently under development, so you won't find anything too interesting at the moment :(
+
+Interested in Bayesian Optimization for Computational Physics. This includes physics-based surrogates and acquistion functions.
 
 If you are bored and just searching for something to do, check out these [fun and easy ways to fail a phd](https://matt.might.net/articles/ways-to-fail-a-phd/).
