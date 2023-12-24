@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: publications, conference proceedings, and workshops
-description:
+title: publications
+description: publications, conference proceedings, and workshops
 nav: true
 nav_order: 1
 ---
