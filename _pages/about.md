@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Physics PhD Candidate. <a href='https://www.lsc.phy.cam.ac.uk/'> Laboratory for Scientific Computing </a>, University of Cambridge.
+subtitle: Physics PhD Candidate. <a href='https://www.lsc.phy.cam.ac.uk/'> Laboratory for Scientific Computing</a>, University of Cambridge.
 profile:
   align: right
   image: prof_pic.jpg
