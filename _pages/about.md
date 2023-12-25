@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my website. It is currently under development, so you won't find anything too interesting at the moment :(
+Welcome to my website. Currently under development :(.
 
 Interested in Bayesian Optimization for Computational Physics. This includes physics-based surrogates and acquistion functions.
 

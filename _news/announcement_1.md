@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-First day of the site!
+First day of the website!
