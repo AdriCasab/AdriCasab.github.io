@@ -3,7 +3,7 @@ layout: post
 title:  Celebratory first post (+ a few thoughts on ice cream stores)
 date: 2023-12-23 22:25:00
 description: first post
-tags: rant finances casual
+tags: rant casual
 categories: casual-posts
 tikzjax: true
 ---
