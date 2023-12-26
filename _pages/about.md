@@ -20,4 +20,4 @@ Welcome to my website. Currently under development :(.
 
 Interested in Bayesian Optimization for Computational Physics. This includes physics-based surrogates and acquistion functions.
 
-If you are bored and just searching for something to do, check out these [fun and easy ways to fail a phd](https://matt.might.net/articles/ways-to-fail-a-phd/).
+If you are bored and just searching for something to do, check out these [fun and easy ways to fail a phd](https://matt.might.net/articles/ways-to-fail-a-phd/). Alternatively, here is a more serious [blog](http://bactra.org/).
